@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/BATMAN OFFICIAL><img title="Author" src="https://img.shields.io/badge/CREATOR-KEMBOIOBED SER-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V3**
+### ℹ️ **About BATMAN-V3**
 XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BATMAN MD}/count.svg" alt="KEMBOIOBED :: Visitor's Count" /></p>
@@ -29,11 +29,11 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
 <p align="center">
 <a href="https://github.com/KEMBOIOBED OFFICIAL/followers"><img title="Followers" src="https://img.shields.io/github/followers/KEMBOI OFFICIAL?color=red&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/BATMAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kemboiobed tofficial/BATMAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/Batman-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kemboiobed tofficial/Batman-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/kemboiobed/Batman-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kemboiobed tofficial/Batman-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Batman tofficial/Batman-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kemboiobed tofficial/Batman-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/Batman/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/Batman-V3-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/salmanytofficial/Batman-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-kemboiobed%20Ser.-red?v=103"></a>
+<a href="https://github.com/salmanytofficial/Batman/"><img title="Size" src="https://img.shields.io/github/repo-size/kemboiobed/Batman-V3-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2Fbatman-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/KEMBOIOBED/batman-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -50,21 +50,9 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
 ## ⭐ `Star This Repo`
 If you find Batman-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
-Thanks to all contributors! 🚀
 
-## 💲 ```Donate Me```
 
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
 
-<p align="left">
-Scan qr code from the above button, u can pay through Buy Me A Coffee...
-</p>
-
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
 
 ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -90,7 +78,7 @@ Click On The Link To Donate ME...
 
 2. Get Creds Json (SERVER 2)
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V3-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@kemboiobed/Batman-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## 🚀 `Deployments`
@@ -183,17 +171,7 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 
-# `TUTORIALS`
 
-***Deploy on Heroku Video ⇓***
- <p align="left">
-<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
- </p>
- </br>
- 
-***Logs Error Fix Video ⇓***
- <p align="left">
-<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
    
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
@@ -203,7 +181,7 @@ NOW Deploy👇
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/kemboiobed"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/kemboiobed"><img src="https://github.com/kemboiobed.png" width="250" height="250" alt="kemboi obed"/></a>
   
 **Batman-V3** - By `kemboiobed`
 <br>
@@ -229,22 +207,13 @@ NOW Deploy👇
 - [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
-<a aria-label="Join our chats" href="https://wa.me/254740873466?text=Hi!! kemboiobed Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/254740873466?text=Hi!! kemboiobed, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
 
 
-- **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
 
-<a href="https://www.buymeacoffee.com/ahmmikun">
-<img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
 
 
 ## 🔒 `Reminder`
