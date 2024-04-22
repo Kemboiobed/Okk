@@ -10,7 +10,7 @@
   
 
 ## 🌟 `Bot Intro and Features`
-[![BATMAN](https://i.ibb.co/sgdGM1P/BATMAN.jpg)](https://youtube.com/@s4salmanyt)
+[![BATMAN-MD 
 
 <p align="center">
 <a href="https://github.com/BATMAN OFFICIAL><img title="Author" src="https://img.shields.io/badge/CREATOR-KEMBOIOBED SER-black.svg?style=for-the-badge&logo=github"></a>
