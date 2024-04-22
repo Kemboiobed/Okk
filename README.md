@@ -8,11 +8,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20BATMAN-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%2OBED)
 <p align="center">
   
->BATMAN MD is based on :
->- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
->
-> :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
-</p>
 
 ## 🌟 `Bot Intro and Features`
 [![BATMAN](https://i.ibb.co/sgdGM1P/BATMAN.jpg)](https://youtube.com/@s4salmanyt)
