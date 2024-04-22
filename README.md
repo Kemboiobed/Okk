@@ -5,7 +5,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%2OBED)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20BATMAN-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%2OBED)
 <p align="center">
   
 >BATMAN MD is based on :
@@ -15,7 +15,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/BATMAN.jpg)](https://youtube.com/@s4salmanyt)
+[![BATMAN](https://i.ibb.co/sgdGM1P/BATMAN.jpg)](https://youtube.com/@s4salmanyt)
 
 <p align="center">
 <a href="https://github.com/BATMAN OFFICIAL><img title="Author" src="https://img.shields.io/badge/CREATOR-KEMBOIOBED SER-black.svg?style=for-the-badge&logo=github"></a>
@@ -34,7 +34,7 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
 <a href="https://github.com/salmanytofficial/Batman/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/Batman-V3-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/batman-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/KEMBOIOBED/batman-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -42,7 +42,7 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*BATMAN* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
 -------
 
 ***
@@ -113,7 +113,7 @@ Click On The Link To Donate ME...
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/salmanytofficial/BATMAN-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
@@ -203,33 +203,33 @@ NOW Deploy👇
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/kemboiobed"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**Batman-V3** - By `kemboiobed`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
 <a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
   
-**XLICON-V3** - By `Slahser Senpai`
+**Batman-V3** - By `Slahser Senpai`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [obadiahkemboi05@gmail.com](mailto: obadiahkemboi680@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
+- [`batman Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
 - [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/254740873466?text=Hi!! kemboiobed Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -260,7 +260,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD.git
+git clone https://github.com/<your gitHub Username>/Batman-MD.git
 cd batman-MD
 
 npm start
