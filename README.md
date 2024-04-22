@@ -37,8 +37,7 @@ BATMAN-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://
   
 ####
 
-*BATMAN* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
--------
+*BATMAN-MD 
 
 ***
 
